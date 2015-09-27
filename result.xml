@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:aux="http://umeta.ru/namespaces/blocks/auxiliary/" xmlns:classifier="http://umeta.ru/namespaces/blocks/services/classifier/" xmlns:core="http://isir.ras.ru/namespace/" xmlns:cv="http://umeta.ru/namespaces/blocks/auxiliary/controlled-vocabularies/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:isir="http://isir.ras.ru/namespace/" xmlns:kernel="http://umeta.ru/namespaces/platform/kernel/" xmlns:pcv="http://prismstandard.org/namespaces/1.2/pcv/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:tcv="http://umeta.ru/namespaces/blocks/auxiliary/rubricator/">
+  <isir:Person rdf:resource="person858718206:Althues/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Althues</core:last>
+      <core:first>Holger</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; NANOTUBES; DIELECTRICS; GRAPHENE; FUNCTIONALIZATION; TRANSISTORS;   CHEMISTRY</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person1120142319:Bodunov/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Bodunov</core:last>
+      <core:middle>S.</core:middle>
+      <core:first>D.</core:first>
+    </core:personName>
+  </isir:Person>
+  <isir:Person rdf:resource="person1758931188:Bormashov/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Bormashov</core:last>
+      <core:middle>S.</core:middle>
+      <core:first>V.</core:first>
+    </core:personName>
+  </isir:Person>
+  <isir:Person rdf:resource="person2102167198:Rakov/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Rakov</core:last>
+      <core:middle>V.</core:middle>
+      <core:first>A.</core:first>
+    </core:personName>
+  </isir:Person>
+  <isir:Person rdf:resource="person975662151:Konstantinova/06-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Konstantinova</core:last>
+      <core:middle>V.</core:middle>
+      <core:first>T.</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; 2ND-HARMONIC GENERATION; HARMONIC-GENERATION; LIGHT; ENHANCEMENT;   PLASMONICS; SURFACES; LUMINESCENCE; NANOANTENNAS; ALUMINUM; METALS; LUMINESCENCE; ENHANCEMENT</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person1256178850:Afanasiev/06-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Afanasiev</core:last>
+      <core:middle>E.</core:middle>
+      <core:first>A.</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; 2ND-HARMONIC GENERATION; HARMONIC-GENERATION; LIGHT; ENHANCEMENT;   PLASMONICS; SURFACES; LUMINESCENCE; NANOANTENNAS; ALUMINUM; SINGLE NANOHOLE; TRANSMISSION; FIELDS; MAGNETIC METAMATERIALS; LIGHT TRANSMISSION; HOLE ARRAYS; NANOANTENNAS;   PHOTOLUMINESCENCE; ENHANCEMENT; GENERATION; NANOHOLE; METALS; LUMINESCENCE; ENHANCEMENT</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person1959237048:Starikov/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Starikov</core:last>
+      <core:middle>A.</core:middle>
+      <core:first>P.</core:first>
+    </core:personName>
+  </isir:Person>
+  <isir:Person rdf:resource="person1676644191:Mityukhlyaev/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Mityukhlyaev</core:last>
+      <core:middle>B.</core:middle>
+      <core:first>V.</core:first>
+    </core:personName>
+  </isir:Person>
+  <isir:Person rdf:resource="person1569925090:Gavrilenko/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Gavrilenko</core:last>
+      <core:middle>P.</core:middle>
+      <core:first>V.</core:first>
+    </core:personName>
+  </isir:Person>
+  <isir:Person rdf:resource="person256138608:Konyaschenko/06-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Konyaschenko</core:last>
+      <core:middle>V.</core:middle>
+      <core:first>A.</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; 2ND-HARMONIC GENERATION; HARMONIC-GENERATION; LIGHT; ENHANCEMENT;   PLASMONICS; SURFACES; LUMINESCENCE; NANOANTENNAS; ALUMINUM</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person25887338:Alzoba/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Alzoba</core:last>
+      <core:middle>V.</core:middle>
+      <core:first>V.</core:first>
+    </core:personName>
+  </isir:Person>
+  <isir:Person rdf:resource="person1007006418:Ovchinnikov/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Ovchinnikov</core:last>
+      <core:middle>V.</core:middle>
+      <core:first>Dmitry</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; NANOTUBES; DIELECTRICS; GRAPHENE; FUNCTIONALIZATION; TRANSISTORS;   CHEMISTRY</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person401840489:Zaitsev/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Zaitsev</core:last>
+      <core:middle>A.</core:middle>
+      <core:first>Sergey</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; NANOTUBES; DIELECTRICS; GRAPHENE; FUNCTIONALIZATION; TRANSISTORS;   CHEMISTRY; AMORPHOUS-SILICON OXYNITRIDE; CHEMICAL-VAPOR-DEPOSITION; SHORT-RANGE   ORDER; GATE DIELECTRICS; HIGH-K; NITRIDE; STACKS</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person296265595:Balykin/06-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Balykin</core:last>
+      <core:middle>I.</core:middle>
+      <core:first>V.</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; 2ND-HARMONIC GENERATION; HARMONIC-GENERATION; LIGHT; ENHANCEMENT;   PLASMONICS; SURFACES; LUMINESCENCE; NANOANTENNAS; ALUMINUM; SINGLE NANOHOLE; TRANSMISSION; FIELDS; MAGNETIC METAMATERIALS; LIGHT TRANSMISSION; HOLE ARRAYS; NANOANTENNAS;   PHOTOLUMINESCENCE; ENHANCEMENT; GENERATION; NANOHOLE; METALS; LUMINESCENCE; ENHANCEMENT</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person1855671938:Tausenev/06-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Tausenev</core:last>
+      <core:middle>V.</core:middle>
+      <core:first>A.</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; 2ND-HARMONIC GENERATION; HARMONIC-GENERATION; LIGHT; ENHANCEMENT;   PLASMONICS; SURFACES; LUMINESCENCE; NANOANTENNAS; ALUMINUM</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person921026477:Markeev/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Markeev</core:last>
+      <core:middle>M.</core:middle>
+      <core:first>Andrey</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; NANOTUBES; DIELECTRICS; GRAPHENE; FUNCTIONALIZATION; TRANSISTORS;   CHEMISTRY; AMORPHOUS-SILICON OXYNITRIDE; CHEMICAL-VAPOR-DEPOSITION; SHORT-RANGE   ORDER; GATE DIELECTRICS; HIGH-K; NITRIDE; STACKS</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person494978672:Chouprik/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Chouprik</core:last>
+      <core:middle>A.</core:middle>
+      <core:first>Anastasya</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; NANOTUBES; DIELECTRICS; GRAPHENE; FUNCTIONALIZATION; TRANSISTORS;   CHEMISTRY; AMORPHOUS-SILICON OXYNITRIDE; CHEMICAL-VAPOR-DEPOSITION; SHORT-RANGE   ORDER; GATE DIELECTRICS; HIGH-K; NITRIDE; STACKS</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person811772701:Doerfler/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Doerfler</core:last>
+      <core:first>Susanne</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; NANOTUBES; DIELECTRICS; GRAPHENE; FUNCTIONALIZATION; TRANSISTORS;   CHEMISTRY</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person1964388978:Chernikova/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Chernikova</core:last>
+      <core:middle>G.</core:middle>
+      <core:first>Anna</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; NANOTUBES; DIELECTRICS; GRAPHENE; FUNCTIONALIZATION; TRANSISTORS;   CHEMISTRY</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person1307497935:Konyashchenko/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Konyashchenko</core:last>
+      <core:middle>V.</core:middle>
+      <core:first>A.</core:first>
+    </core:personName>
+  </isir:Person>
+  <isir:Person rdf:resource="person487173430:Gudkova/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Gudkova</core:last>
+      <core:middle>A.</core:middle>
+      <core:first>S.</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; AMORPHOUS-SILICON OXYNITRIDE; CHEMICAL-VAPOR-DEPOSITION; SHORT-RANGE   ORDER; GATE DIELECTRICS; HIGH-K; NITRIDE; STACKS</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person1601652593:Kuzin/06-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Kuzin</core:last>
+      <core:middle>A.</core:middle>
+      <core:first>A.</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; 2ND-HARMONIC GENERATION; HARMONIC-GENERATION; LIGHT; ENHANCEMENT;   PLASMONICS; SURFACES; LUMINESCENCE; NANOANTENNAS; ALUMINUM; SINGLE NANOHOLE; TRANSMISSION; FIELDS; MAGNETIC METAMATERIALS; LIGHT TRANSMISSION; HOLE ARRAYS; NANOANTENNAS;   PHOTOLUMINESCENCE; ENHANCEMENT; GENERATION; NANOHOLE; METALS; LUMINESCENCE; ENHANCEMENT</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person175272154:Baturin/06-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Baturin</core:last>
+      <core:middle>S.</core:middle>
+      <core:first>A.</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; 2ND-HARMONIC GENERATION; HARMONIC-GENERATION; LIGHT; ENHANCEMENT;   PLASMONICS; SURFACES; LUMINESCENCE; NANOANTENNAS; ALUMINUM; SINGLE NANOHOLE; TRANSMISSION; FIELDS; MAGNETIC METAMATERIALS; LIGHT TRANSMISSION; HOLE ARRAYS; NANOANTENNAS;   PHOTOLUMINESCENCE; ENHANCEMENT; GENERATION; NANOHOLE; METALS; LUMINESCENCE; ENHANCEMENT</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person757858027:Filippov/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Filippov</core:last>
+      <core:middle>N.</core:middle>
+      <core:first>M.</core:first>
+    </core:personName>
+  </isir:Person>
+  <isir:Person rdf:resource="person1728409644:Lebedinskii/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Lebedinskii</core:last>
+      <core:first>Yu</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; AMORPHOUS-SILICON OXYNITRIDE; CHEMICAL-VAPOR-DEPOSITION; SHORT-RANGE   ORDER; GATE DIELECTRICS; HIGH-K; NITRIDE; STACKS</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person1701173529:Grigal/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Grigal</core:last>
+      <core:middle>P.</core:middle>
+      <core:first>I.</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; AMORPHOUS-SILICON OXYNITRIDE; CHEMICAL-VAPOR-DEPOSITION; SHORT-RANGE   ORDER; GATE DIELECTRICS; HIGH-K; NITRIDE; STACKS</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person1149052032:Sharonov/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Sharonov</core:last>
+      <core:middle>A.</core:middle>
+      <core:first>V.</core:first>
+    </core:personName>
+  </isir:Person>
+  <isir:Person rdf:resource="person424677234:Zablotskii/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Zablotskii</core:last>
+      <core:middle>V.</core:middle>
+      <core:first>A.</core:first>
+    </core:personName>
+  </isir:Person>
+  <isir:Person rdf:resource="person1400032026:Melentiev/06-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Melentiev</core:last>
+      <core:middle>N.</core:middle>
+      <core:first>P.</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; 2ND-HARMONIC GENERATION; HARMONIC-GENERATION; LIGHT; ENHANCEMENT;   PLASMONICS; SURFACES; LUMINESCENCE; NANOANTENNAS; ALUMINUM; SINGLE NANOHOLE; TRANSMISSION; FIELDS; MAGNETIC METAMATERIALS; LIGHT TRANSMISSION; HOLE ARRAYS; NANOANTENNAS;   PHOTOLUMINESCENCE; ENHANCEMENT; GENERATION; NANOHOLE; METALS; LUMINESCENCE; ENHANCEMENT</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <isir:Person rdf:resource="person1726835104:Todua/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Todua</core:last>
+      <core:middle>A.</core:middle>
+      <core:first>P.</core:first>
+    </core:personName>
+  </isir:Person>
+  <isir:Person rdf:resource="person2046968117:Alekhin/08-10-13">
+    <core:personName rdf:parseType="Resource">
+      <dc:language>ru</dc:language>
+      <core:last>Alekhin</core:last>
+      <core:middle>P.</core:middle>
+      <core:first>A.</core:first>
+    </core:personName>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>; AMORPHOUS-SILICON OXYNITRIDE; CHEMICAL-VAPOR-DEPOSITION; SHORT-RANGE   ORDER; GATE DIELECTRICS; HIGH-K; NITRIDE; STACKS</rdf:value>
+    </isir:keywords>
+  </isir:Person>
+  <core:Publication rdf:resource="journal1625782316:08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#mag" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>LASER PHYSICS LETTERS</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <isir:subTitle rdf:parseType="Resource">
+      <rdf:value>Laser Phys. Lett.</rdf:value>
+      <dc:language>ru</dc:language>
+    </isir:subTitle>
+  </core:Publication>
+  <core:Publication rdf:resource="journal307691069:08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#mag" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>JOURNAL OF EXPERIMENTAL AND THEORETICAL PHYSICS</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <isir:subTitle rdf:parseType="Resource">
+      <rdf:value>J. Exp. Theor. Phys.</rdf:value>
+      <dc:language>ru</dc:language>
+    </isir:subTitle>
+  </core:Publication>
+  <core:Publication rdf:resource="journal1963061536:08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#mag" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>MEASUREMENT TECHNIQUES</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <isir:subTitle rdf:parseType="Resource">
+      <rdf:value>Meas. Tech.</rdf:value>
+      <dc:language>ru</dc:language>
+    </isir:subTitle>
+  </core:Publication>
+  <core:Publication rdf:resource="journal185702057:08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#mag" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>THIN SOLID FILMS</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <isir:subTitle rdf:parseType="Resource">
+      <rdf:value>Thin Solid Films</rdf:value>
+      <dc:language>ru</dc:language>
+    </isir:subTitle>
+  </core:Publication>
+  <core:Publication rdf:resource="journal1543186409:08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#mag" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>JOURNAL OF VACUUM SCIENCE \&amp; TECHNOLOGY A</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <isir:subTitle rdf:parseType="Resource">
+      <rdf:value>J. Vac. Sci. Technol. A</rdf:value>
+      <dc:language>ru</dc:language>
+    </isir:subTitle>
+  </core:Publication>
+  <core:Publication rdf:resource="journal998187199:08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#mag" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>OPTICS LETTERS</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <isir:subTitle rdf:parseType="Resource">
+      <rdf:value>Opt. Lett.</rdf:value>
+      <dc:language>ru</dc:language>
+    </isir:subTitle>
+  </core:Publication>
+  <core:Publication rdf:resource="journal151353939:08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#mag" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>OPTICS EXPRESS</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <isir:subTitle rdf:parseType="Resource">
+      <rdf:value>Opt. Express</rdf:value>
+      <dc:language>ru</dc:language>
+    </isir:subTitle>
+  </core:Publication>
+  <core:Publication rdf:resource="volume2125547849:08-10-13/volume10/year113">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#vol" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>volume 10</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="journal1625782316:08-10-13" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="volume918550461:08-10-13/volume117/year113">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#vol" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>volume 117</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="journal307691069:08-10-13" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="volume540344060:08-10-13/volume55/year113">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#vol" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>volume 55</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="journal1963061536:08-10-13" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="volume2028386363:08-10-13/volume56/year113">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#vol" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>volume 56</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="journal1963061536:08-10-13" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="volume1360765058:08-10-13/volume520/year112">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#vol" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>volume 520</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="journal185702057:08-10-13" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2012</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="volume1772662178:08-10-13/volume31/year113">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#vol" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>volume 31</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="journal1543186409:08-10-13" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="volume162816243:08-10-13/volume38/year113">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#vol" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>volume 38</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="journal998187199:08-10-13" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="volume1320870529:08-10-13/volume21/year113">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#vol" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>volume 21</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="journal151353939:08-10-13" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="volume1330031128:08-10-13/volume20/year112">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#vol" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>volume 20</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="journal151353939:08-10-13" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2012</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="number1672819853:08-10-13/volume10/number7/year113">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#iss" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>number 7</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="volume2125547849:08-10-13/volume10/year113" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="number2146862877:08-10-13/volume117/number1/year113">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#iss" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>number 1</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="volume918550461:08-10-13/volume117/year113" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="number1294296260:08-10-13/volume55/number9/year112">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#iss" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>number 9</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="volume540344060:08-10-13/volume55/year113" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2012</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="number1805322883:08-10-13/volume55/number10/year113">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#iss" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>number 10</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="volume540344060:08-10-13/volume55/year113" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="number2031428868:08-10-13/volume56/number3/year113">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#iss" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>number 3</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="volume2028386363:08-10-13/volume56/year113" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="number378928452:08-10-13/volume520/number14/year112">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#iss" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>number 14</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="volume1360765058:08-10-13/volume520/year112" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2012</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="number100930742:08-10-13/volume31/number1/year113">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#iss" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>number 1</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="volume1772662178:08-10-13/volume31/year113" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="number668627190:08-10-13/volume38/number13/year113">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#iss" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>number 13</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="volume162816243:08-10-13/volume38/year113" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="number320212757:08-10-13/volume21/number12/year113">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#iss" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>number 12</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="volume1320870529:08-10-13/volume21/year113" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="number1478766280:08-10-13/volume20/number17/year112">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#iss" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>number 17</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="volume1330031128:08-10-13/volume20/year112" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2012</isir:dateValue>
+    </dcterms:issued>
+  </core:Publication>
+  <core:Publication rdf:resource="article1793431561:ISI:000307873600100/08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#amg" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>Single nanohole and photoluminescence: nanolocalized and wavelength   tunable light source</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="number1478766280:08-10-13/volume20/number17/year112" />
+    <dcterms:issued>
+      <isir:dateValue>13.08.2012</isir:dateValue>
+    </dcterms:issued>
+    <isir:pages>19474-19483</isir:pages>
+    <core:author rdf:resource="person1601652593:Kuzin/06-10-13" />
+    <core:author rdf:resource="person175272154:Baturin/06-10-13" />
+    <core:author rdf:resource="person1400032026:Melentiev/06-10-13" />
+    <core:author rdf:resource="person975662151:Konstantinova/06-10-13" />
+    <core:author rdf:resource="person1256178850:Afanasiev/06-10-13" />
+    <core:author rdf:resource="person296265595:Balykin/06-10-13" />
+    <dcterms:abstract>
+      <isir:textContent>We are first to demonstrate a broadband, nanometer-scale, and   background-free light source that is based on photoluminescence of a   single nanohole in an Au film. We show that a nanohole with a diameter   of as small as 20 nm in a 200-nm thick Au film can be used for this   purpose. Further development of the localized source that involves the   use of a photon-crystal microcavity with a Q-factor of 100 makes it   possible to create a 30-fold enhanced, narrowband tunable light source   and with a narrow directivity of the radiation. (c) 2012 Optical Society   of America</isir:textContent>
+      <dc:language>ru</dc:language>
+    </dcterms:abstract>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/ISSN</rdf:type>
+      <rdf:value>1094-4087</rdf:value>
+    </dc:identifier>
+    <isir:publishedPlace>
+      <dc:language>ru</dc:language>
+      <rdf:value>OPTICAL SOC AMER</rdf:value>
+    </isir:publishedPlace>
+    <isir:publishingHouse>
+      <dc:language>ru</dc:language>
+      <rdf:value>2010 MASSACHUSETTS AVE NW, WASHINGTON, DC 20036 USA</rdf:value>
+    </isir:publishingHouse>
+  </core:Publication>
+  <core:Publication rdf:resource="article907022737:ISI:000320561000048/08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#amg" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>Single nano-hole as a new effective nonlinear element for third-harmonic   generation</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="number1672819853:08-10-13/volume10/number7/year113" />
+    <dcterms:issued>
+      <isir:dateValue>01.07.2013</isir:dateValue>
+    </dcterms:issued>
+    <core:author rdf:resource="person1601652593:Kuzin/06-10-13" />
+    <core:author rdf:resource="person175272154:Baturin/06-10-13" />
+    <core:author rdf:resource="person1855671938:Tausenev/06-10-13" />
+    <core:author rdf:resource="person256138608:Konyaschenko/06-10-13" />
+    <core:author rdf:resource="person1400032026:Melentiev/06-10-13" />
+    <core:author rdf:resource="person975662151:Konstantinova/06-10-13" />
+    <core:author rdf:resource="person1256178850:Afanasiev/06-10-13" />
+    <core:author rdf:resource="person296265595:Balykin/06-10-13" />
+    <dcterms:abstract>
+      <isir:textContent>In this letter, we report on a particularly strong optical nonlinearity   at the nanometer scale in aluminum. A strong optical nonlinearity of the   third order was demonstrated on a single nanoslit. Single nanoslits of   different aspect ratio were excited by a laser pulse (120 fs) at the   wavelength 1.5 mu m, leading predominantly to third-harmonic generation   (THG). It has been shown that strong surface plasmon resonance in a   nanoslit allows the realization of an effective nanolocalized source of   third-harmonic radiation. We show also that a nanoslit in a metal film   has a significant advantage in nonlinear processes over its Babinet   complementary nanostructure (nanorod): the effective abstraction of heat   in a film with a slit makes it possible to use much higher laser   radiation intensities.</isir:textContent>
+      <dc:language>ru</dc:language>
+    </dcterms:abstract>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/ISSN</rdf:type>
+      <rdf:value>1612-2011</rdf:value>
+    </dc:identifier>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/DOI</rdf:type>
+      <rdf:value>10.1088/1612-2011/10/7/075901</rdf:value>
+    </dc:identifier>
+    <isir:publishedPlace>
+      <dc:language>ru</dc:language>
+      <rdf:value>IOP PUBLISHING LTD</rdf:value>
+    </isir:publishedPlace>
+    <isir:publishingHouse>
+      <dc:language>ru</dc:language>
+      <rdf:value>TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND</rdf:value>
+    </isir:publishingHouse>
+  </core:Publication>
+  <core:Publication rdf:resource="article1849502522:ISI:000313205200005/08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#amg" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>Standard sample for calibration of transmission electron microscopes   nanometrology</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="number1805322883:08-10-13/volume55/number10/year113" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+    <isir:pages>1137-1140</isir:pages>
+    <core:author rdf:resource="person1601652593:Kuzin/06-10-13" />
+    <core:author rdf:resource="person757858027:Filippov/08-10-13" />
+    <core:author rdf:resource="person1676644191:Mityukhlyaev/08-10-13" />
+    <core:author rdf:resource="person1569925090:Gavrilenko/08-10-13" />
+    <core:author rdf:resource="person424677234:Zablotskii/08-10-13" />
+    <core:author rdf:resource="person1120142319:Bodunov/08-10-13" />
+    <core:author rdf:resource="person1726835104:Todua/08-10-13" />
+    <core:author rdf:resource="person2102167198:Rakov/08-10-13" />
+    <dcterms:abstract>
+      <isir:textContent>A prototype standard sample GSO 10030-2011 for the stepped parameters of   thin layers of single crystal silicon is developed and certified. It is   intended for calibration of transmission electron microscopes at   magnifications of 1000-1,500,000x. The certified parameters are the step   size of the stepped structure and the distance between the (111) planes   of the single crystal silicon in this material. Both parameters are   independently traceable to the unit of length, the meter.</isir:textContent>
+      <dc:language>ru</dc:language>
+    </dcterms:abstract>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/ISSN</rdf:type>
+      <rdf:value>0543-1972</rdf:value>
+    </dc:identifier>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/DOI</rdf:type>
+      <rdf:value>10.1007/s11018-012-0098-5</rdf:value>
+    </dc:identifier>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>10.1007/s11018-012-0098-5</rdf:value>
+    </isir:keywords>
+    <isir:publishedPlace>
+      <dc:language>ru</dc:language>
+      <rdf:value>CONSULTANTS BUREAU/SPRINGER</rdf:value>
+    </isir:publishedPlace>
+    <isir:publishingHouse>
+      <dc:language>ru</dc:language>
+      <rdf:value>233 SPRING ST, NEW YORK, NY 10013 USA</rdf:value>
+    </isir:publishingHouse>
+  </core:Publication>
+  <core:Publication rdf:resource="article1852772975:ISI:000304567900010/08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#amg" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>Electrical properties of quaternary HfAlTiO thin films grown by atomic   layer deposition</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="number378928452:08-10-13/volume520/number14/year112" />
+    <dcterms:issued>
+      <isir:dateValue>01.05.2012</isir:dateValue>
+    </dcterms:issued>
+    <isir:pages>4547-4550</isir:pages>
+    <core:author rdf:resource="person1728409644:Lebedinskii/08-10-13" />
+    <core:author rdf:resource="person921026477:Markeev/08-10-13" />
+    <core:author rdf:resource="person1701173529:Grigal/08-10-13" />
+    <core:author rdf:resource="person494978672:Chouprik/08-10-13" />
+    <core:author rdf:resource="person401840489:Zaitsev/08-10-13" />
+    <core:author rdf:resource="person487173430:Gudkova/08-10-13" />
+    <core:author rdf:resource="person2046968117:Alekhin/08-10-13" />
+    <dcterms:abstract>
+      <isir:textContent>Quaternary alloyed HfAlTiO thin (similar to 4-5 nm) films in the wide   range of Ti content have been grown on Si substrates by Atomic Layer   Deposition technique, and the effect of both the film composition and   the interfacial reactions on the electrical properties of HfAlTiO films   is investigated. It is shown that depending on the Ti content, the   permittivity and the leakage current density I-leak, in HfAlTiO films   vary in the range k = 18 divided by 28 and 0.01-2.4 A cm(-2),   respectively. The incorporation of ultra thin SiN interlayer in   Al/HfAlTiO/SiN/Si stack gives rise to the sharp (x10(3)) decrease of the   I-leak similar to 6.10(-5) A/cm(2) at the expense of the rather low   capacitance equivalent thickness similar to 0.9 nm. (C) 2011 Elsevier   B.V. All rights reserved.</isir:textContent>
+      <dc:language>ru</dc:language>
+    </dcterms:abstract>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/ISSN</rdf:type>
+      <rdf:value>0040-6090</rdf:value>
+    </dc:identifier>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/DOI</rdf:type>
+      <rdf:value>10.1016/j.tsf.2011.10.186</rdf:value>
+    </dc:identifier>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>10.1016/j.tsf.2011.10.186</rdf:value>
+    </isir:keywords>
+    <isir:publishedPlace>
+      <dc:language>ru</dc:language>
+      <rdf:value>ELSEVIER SCIENCE SA</rdf:value>
+    </isir:publishedPlace>
+    <isir:publishingHouse>
+      <dc:language>ru</dc:language>
+      <rdf:value>PO BOX 564, 1001 LAUSANNE, SWITZERLAND</rdf:value>
+    </isir:publishingHouse>
+  </core:Publication>
+  <core:Publication rdf:resource="article772464017:ISI:000320510300002/08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#amg" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>Giant optical nonlinearity of a single plasmonic nanostructure</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="number320212757:08-10-13/volume21/number12/year113" />
+    <dcterms:issued>
+      <isir:dateValue>17.06.2013</isir:dateValue>
+    </dcterms:issued>
+    <isir:pages>13896-13905</isir:pages>
+    <core:author rdf:resource="person1601652593:Kuzin/06-10-13" />
+    <core:author rdf:resource="person175272154:Baturin/06-10-13" />
+    <core:author rdf:resource="person1400032026:Melentiev/06-10-13" />
+    <core:author rdf:resource="person1256178850:Afanasiev/06-10-13" />
+    <core:author rdf:resource="person296265595:Balykin/06-10-13" />
+    <dcterms:abstract>
+      <isir:textContent>We realize giant optical nonlinearity of a single plasmonic   nanostructure which we call a split hole resonator (SHR). The SHR is the   marriage of two basic elements of nanoplasmonics, a nanohole and a   nanorod. A peak field intensity in the SHR occurs at the single tip of   the nanorod inside the nanohole. The peak field is much stronger than   those of the nanorod and nanohole, because the SHR field involves   contributions from the following two field-enhancement mechanisms: (1)   the excitation of surface plasmon resonances and (2) the lightning-rod   effect. Here, we demonstrate the use of the SHR as a highly efficient   nonlinear optical element for: (i) the generation of the third harmonic   from a single SHR; (ii) the excitation of intense multiphoton   luminescence from a single SHR. (C) 2013 Optical Society of America</isir:textContent>
+      <dc:language>ru</dc:language>
+    </dcterms:abstract>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/ISSN</rdf:type>
+      <rdf:value>1094-4087</rdf:value>
+    </dc:identifier>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/DOI</rdf:type>
+      <rdf:value>10.1364/OE.21.013896</rdf:value>
+    </dc:identifier>
+    <isir:publishedPlace>
+      <dc:language>ru</dc:language>
+      <rdf:value>OPTICAL SOC AMER</rdf:value>
+    </isir:publishedPlace>
+    <isir:publishingHouse>
+      <dc:language>ru</dc:language>
+      <rdf:value>2010 MASSACHUSETTS AVE NW, WASHINGTON, DC 20036 USA</rdf:value>
+    </isir:publishingHouse>
+  </core:Publication>
+  <core:Publication rdf:resource="article779141090:ISI:000321786000013/08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#amg" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>Determination of the nonlinearity of capacitive sensors along the Z-axis   of an atomic force microscope</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="number2031428868:08-10-13/volume56/number3/year113" />
+    <dcterms:issued>
+      <isir:dateValue>01.06.2013</isir:dateValue>
+    </dcterms:issued>
+    <isir:pages>275-277</isir:pages>
+    <core:author rdf:resource="person175272154:Baturin/06-10-13" />
+    <core:author rdf:resource="person1149052032:Sharonov/08-10-13" />
+    <core:author rdf:resource="person424677234:Zablotskii/08-10-13" />
+    <core:author rdf:resource="person1758931188:Bormashov/08-10-13" />
+    <core:author rdf:resource="person1726835104:Todua/08-10-13" />
+    <dcterms:abstract>
+      <isir:textContent>The nonlinearity of capacitive sensors along the Z-axis of an atomic   force microscope is investigated using test structures containing relief   elements of height 300-1200 nm. The dependence of the results of height   measurements on the value of the displacement of the tubular   piezoelectric scanner over a range of 10-90\% of the maximum possible   value is established. It is shown that the nonlinearity of displacement   and direction capacitive sensors, perpendicular to the surface being   investigated, is 1.5-3\%.</isir:textContent>
+      <dc:language>ru</dc:language>
+    </dcterms:abstract>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/ISSN</rdf:type>
+      <rdf:value>0543-1972</rdf:value>
+    </dc:identifier>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/DOI</rdf:type>
+      <rdf:value>10.1007/s11018-013-0194-1</rdf:value>
+    </dc:identifier>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>10.1007/s11018-013-0194-1</rdf:value>
+    </isir:keywords>
+    <isir:publishedPlace>
+      <dc:language>ru</dc:language>
+      <rdf:value>SPRINGER</rdf:value>
+    </isir:publishedPlace>
+    <isir:publishingHouse>
+      <dc:language>ru</dc:language>
+      <rdf:value>233 SPRING ST, NEW YORK, NY 10013 USA</rdf:value>
+    </isir:publishingHouse>
+  </core:Publication>
+  <core:Publication rdf:resource="article143511877:ISI:000313931300045/08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#amg" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>Atomic layer deposition of Al2O3 and AI(x)Ti(1-x)O(y) thin films on N2O   plasma pretreated carbon materials</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="number100930742:08-10-13/volume31/number1/year113" />
+    <dcterms:issued>
+      <isir:dateValue>01.01.2013</isir:dateValue>
+    </dcterms:issued>
+    <core:author rdf:resource="person858718206:Althues/08-10-13" />
+    <core:author rdf:resource="person921026477:Markeev/08-10-13" />
+    <core:author rdf:resource="person1007006418:Ovchinnikov/08-10-13" />
+    <core:author rdf:resource="person494978672:Chouprik/08-10-13" />
+    <core:author rdf:resource="person811772701:Doerfler/08-10-13" />
+    <core:author rdf:resource="person1964388978:Chernikova/08-10-13" />
+    <core:author rdf:resource="person401840489:Zaitsev/08-10-13" />
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/ISSN</rdf:type>
+      <rdf:value>0734-2101</rdf:value>
+    </dc:identifier>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/DOI</rdf:type>
+      <rdf:value>10.1116/1.4769793</rdf:value>
+    </dc:identifier>
+    <isir:publishedPlace>
+      <dc:language>ru</dc:language>
+      <rdf:value>A V S AMER INST PHYSICS</rdf:value>
+    </isir:publishedPlace>
+    <isir:publishingHouse>
+      <dc:language>ru</dc:language>
+      <rdf:value>STE 1 NO 1, 2 HUNTINGTON QUADRANGLE, MELVILLE, NY 11747-4502 USA</rdf:value>
+    </isir:publishingHouse>
+  </core:Publication>
+  <core:Publication rdf:resource="article965448924:ISI:000323661900003/08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#amg" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>A nanohole in a thin metal film as an efficient nonlinear optical   element</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="number2146862877:08-10-13/volume117/number1/year113" />
+    <dcterms:issued>
+      <isir:dateValue>01.07.2013</isir:dateValue>
+    </dcterms:issued>
+    <isir:pages>21-31</isir:pages>
+    <core:author rdf:resource="person1601652593:Kuzin/06-10-13" />
+    <core:author rdf:resource="person175272154:Baturin/06-10-13" />
+    <core:author rdf:resource="person1959237048:Starikov/08-10-13" />
+    <core:author rdf:resource="person1855671938:Tausenev/06-10-13" />
+    <core:author rdf:resource="person975662151:Konstantinova/06-10-13" />
+    <core:author rdf:resource="person1307497935:Konyashchenko/08-10-13" />
+    <core:author rdf:resource="person296265595:Balykin/06-10-13" />
+    <dcterms:abstract>
+      <isir:textContent>The nonlinear optical properties of single nanoholes and nanoslits   fabricated in gold and aluminum nanofilms are studied by third harmonic   generation (THG). It is shown that the extremely high third-order   optical susceptibility of aluminum and the presence of strong plasmon   resonance of a single nanohole in an aluminum film make possible an   efficient nanolocalized radiation source at the third harmonic   frequency. The THG efficiency for a single nanohole in a thin metal film   can be close to unity for an exciting laser radiation intensity on the   order of 10(13) W/cm(2).</isir:textContent>
+      <dc:language>ru</dc:language>
+    </dcterms:abstract>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/ISSN</rdf:type>
+      <rdf:value>3RD-HARMONIC GENERATION; 2ND-HARMONIC GENERATION; SINGLE NANOHOLE;   NOBLE-METALS; LIGHT; PLASMONICS; SURFACES; NANOANTENNAS; LUMINESCENCE;   ENHANCEMENT</rdf:value>
+    </dc:identifier>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/DOI</rdf:type>
+      <rdf:value>10.1134/S1063776113080165</rdf:value>
+    </dc:identifier>
+    <isir:publishedPlace>
+      <dc:language>ru</dc:language>
+      <rdf:value>MAIK NAUKA/INTERPERIODICA/SPRINGER</rdf:value>
+    </isir:publishedPlace>
+    <isir:publishingHouse>
+      <dc:language>ru</dc:language>
+      <rdf:value>233 SPRING ST, NEW YORK, NY 10013-1578 USA</rdf:value>
+    </isir:publishingHouse>
+  </core:Publication>
+  <core:Publication rdf:resource="article418526281:ISI:000312334400007/08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#amg" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>Scan nonlinearity of a scanning electron microscope</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="number1294296260:08-10-13/volume55/number9/year112" />
+    <dcterms:issued>
+      <isir:dateValue>01.12.2012</isir:dateValue>
+    </dcterms:issued>
+    <isir:pages>1001-1004</isir:pages>
+    <core:author rdf:resource="person1601652593:Kuzin/06-10-13" />
+    <core:author rdf:resource="person757858027:Filippov/08-10-13" />
+    <core:author rdf:resource="person1676644191:Mityukhlyaev/08-10-13" />
+    <core:author rdf:resource="person1569925090:Gavrilenko/08-10-13" />
+    <core:author rdf:resource="person25887338:Alzoba/08-10-13" />
+    <core:author rdf:resource="person1726835104:Todua/08-10-13" />
+    <core:author rdf:resource="person2102167198:Rakov/08-10-13" />
+    <dcterms:abstract>
+      <isir:textContent>The scan nonlinearity of scanning electron microscopes is estimated with   the use of a relief element with known geometric form of the profile.   The mean value of the step of the test relief structure, which is   determined as a test sample is moved along the scanning axis X, is   measured. It is experimentally demonstrated that with a 5(x)   magnification, the maximum relative deviation from the mean value of the   step of the test structure for a given microscope does not exceed 0.4\%.</isir:textContent>
+      <dc:language>ru</dc:language>
+    </dcterms:abstract>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/ISSN</rdf:type>
+      <rdf:value>0543-1972</rdf:value>
+    </dc:identifier>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/DOI</rdf:type>
+      <rdf:value>10.1007/s11018-012-0089-6</rdf:value>
+    </dc:identifier>
+    <isir:keywords>
+      <dc:language>ru</dc:language>
+      <rdf:value>10.1007/s11018-012-0089-6</rdf:value>
+    </isir:keywords>
+    <isir:publishedPlace>
+      <dc:language>ru</dc:language>
+      <rdf:value>CONSULTANTS BUREAU/SPRINGER</rdf:value>
+    </isir:publishedPlace>
+    <isir:publishingHouse>
+      <dc:language>ru</dc:language>
+      <rdf:value>233 SPRING ST, NEW YORK, NY 10013 USA</rdf:value>
+    </isir:publishingHouse>
+  </core:Publication>
+  <core:Publication rdf:resource="article2029797845:ISI:000321262500038/08-10-13">
+    <core:publicationType rdf:about="http://isir.ras.ru/namespace/PublicationType#amg" />
+    <core:mainTitle rdf:parseType="Resource">
+      <rdf:value>Subwavelength light localization based on optical nonlinearity and light   polarization</rdf:value>
+      <dc:language>ru</dc:language>
+    </core:mainTitle>
+    <dcterms:isPartOf rdf:about="number668627190:08-10-13/volume38/number13/year113" />
+    <dcterms:issued>
+      <isir:dateValue>01.07.2013</isir:dateValue>
+    </dcterms:issued>
+    <isir:pages>2274-2276</isir:pages>
+    <core:author rdf:resource="person1601652593:Kuzin/06-10-13" />
+    <core:author rdf:resource="person175272154:Baturin/06-10-13" />
+    <core:author rdf:resource="person1400032026:Melentiev/06-10-13" />
+    <core:author rdf:resource="person1256178850:Afanasiev/06-10-13" />
+    <core:author rdf:resource="person296265595:Balykin/06-10-13" />
+    <dcterms:abstract>
+      <isir:textContent>We propose and experimentally realize subwavelength light localization   based on the optical nonlinearity of a single nonlinear element in   nanoplasmonics-a split hole resonator (SHR). The SHR is composed of two   basic elements of nanoplasmonics, a nanohole, and a nanorod. A peak   field intensity occurs at the single spot of the SHR nanostructure. We   demonstrate the use of the SHR as a highly efficient nonlinear optical   element for (i) the construction of a polarization-ultrasensitive   nanoelement and, as a practical application, (ii) the building up of an   all-optical display. (C) 2013 Optical Society of America</isir:textContent>
+      <dc:language>ru</dc:language>
+    </dcterms:abstract>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/ISSN</rdf:type>
+      <rdf:value>0146-9592</rdf:value>
+    </dc:identifier>
+    <dc:identifier>
+      <rdf:type>http://isir.ras.ru/namespace/DOI</rdf:type>
+      <rdf:value>10.1364/OL.38.002274</rdf:value>
+    </dc:identifier>
+    <isir:publishedPlace>
+      <dc:language>ru</dc:language>
+      <rdf:value>OPTICAL SOC AMER</rdf:value>
+    </isir:publishedPlace>
+    <isir:publishingHouse>
+      <dc:language>ru</dc:language>
+      <rdf:value>2010 MASSACHUSETTS AVE NW, WASHINGTON, DC 20036 USA</rdf:value>
+    </isir:publishingHouse>
+  </core:Publication>
+</rdf:RDF>

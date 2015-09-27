@@ -1,0 +1,8 @@
+url = jdbc:postgresql://U03/mipt.umeta.ru
+user = postgres
+password = madiken
+
+
+
+
+    
